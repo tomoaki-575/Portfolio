@@ -1,13 +1,13 @@
 # ポートフォリオ
 
 ## 取得資格　（AI・IT・数学）
-◯　応用情報技術者試験
-◯　基本情報技術者試験
-◯　E資格 JDLA Deep Learning for ENGINEER 2021 #1
-◯　G検定 JDLA Deep Learning for GENERAL 2020 #2
-◯　統計検定2級
-◯　Python3 エンジニア認定データ分析試験
-◯ ディープラーニング実装師（A級）
+◯応用情報技術者試験
+◯基本情報技術者試験
+◯E資格 JDLA Deep Learning for ENGINEER 2021 #1
+◯G検定 JDLA Deep Learning for GENERAL 2020 #2
+◯統計検定2級
+◯Python3 エンジニア認定データ分析試験
+◯ディープラーニング実装師（A級）
 
 ## 数値認識アプリ
 https://github.com/tomoaki-575/digits_0-9_app
