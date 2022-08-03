@@ -1,7 +1,7 @@
 # ポートフォリオ
 
 ## AI・IT・数学系の取得資格
-・応用情報技術者試験　　
+・応用情報技術者試験\\
 ・基本情報技術者試験　　
 ・E資格 JDLA Deep Learning for ENGINEER 2021 #1　　
 ・G検定 JDLA Deep Learning for GENERAL 2020 #2　　
